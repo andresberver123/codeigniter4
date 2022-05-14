@@ -1,0 +1,385 @@
+CRITICAL - 2022-05-13 21:25:14 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp2\htdocs\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp2\htdocs\codeigniter\public\index.php(28): require('C:\\xampp2\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-13 21:25:38 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp2\htdocs\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp2\htdocs\codeigniter\public\index.php(28): require('C:\\xampp2\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-13 21:39:58 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp2\htdocs\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp2\htdocs\codeigniter\public\index.php(28): require('C:\\xampp2\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-13 21:40:15 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp2\htdocs\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp2\htdocs\codeigniter\public\index.php(28): require('C:\\xampp2\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-13 21:41:08 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp2\htdocs\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp2\htdocs\codeigniter\public\index.php(28): require('C:\\xampp2\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-13 22:34:32 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp2\htdocs\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp2\htdocs\codeigniter\public\index.php(28): require('C:\\xampp2\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-13 22:35:05 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp2\htdocs\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp2\htdocs\codeigniter\public\index.php(28): require('C:\\xampp2\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-13 22:36:45 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp2\htdocs\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp2\htdocs\codeigniter\public\index.php(28): require('C:\\xampp2\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-13 22:37:07 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp2\htdocs\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp2\htdocs\codeigniter\public\index.php(28): require('C:\\xampp2\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-13 22:38:00 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp2\htdocs\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp2\htdocs\codeigniter\public\index.php(28): require('C:\\xampp2\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-13 22:38:02 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp2\htdocs\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp2\htdocs\codeigniter\public\index.php(28): require('C:\\xampp2\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-13 22:38:17 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp2\htdocs\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp2\htdocs\codeigniter\public\index.php(28): require('C:\\xampp2\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-13 22:44:12 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp2\htdocs\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp2\htdocs\codeigniter\public\index.php(28): require('C:\\xampp2\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-13 22:58:46 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp2\htdocs\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp2\htdocs\codeigniter\public\index.php(28): require('C:\\xampp2\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-13 22:58:49 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp2\htdocs\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp2\htdocs\codeigniter\public\index.php(28): require('C:\\xampp2\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-13 23:10:25 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp2\htdocs\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp2\htdocs\codeigniter\public\index.php(28): require('C:\\xampp2\\htdoc...')
+#4 {main}
+CRITICAL - 2022-05-13 16:13:25 --> Undefined array key 1
+#0 C:\xampp2\htdocs\codeigniter\system\Router\Router.php(429): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp2\\htdoc...', 429)
+#1 C:\xampp2\htdocs\codeigniter\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('libros')
+#2 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('libros')
+#3 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-13 16:13:34 --> Undefined array key 1
+#0 C:\xampp2\htdocs\codeigniter\system\Router\Router.php(429): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp2\\htdoc...', 429)
+#1 C:\xampp2\htdocs\codeigniter\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('libros')
+#2 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('libros')
+#3 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-13 16:16:05 --> Undefined array key 1
+#0 C:\xampp2\htdocs\codeigniter\system\Router\Router.php(429): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp2\\htdoc...', 429)
+#1 C:\xampp2\htdocs\codeigniter\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('libros')
+#2 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('libros')
+#3 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-13 16:56:10 --> Undefined property: App\Controllers\Libros::$db
+#0 C:\xampp2\htdocs\codeigniter\app\Controllers\Libros.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp2\\htdoc...', 11)
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->index()
+#2 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#3 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 16:57:38 --> Undefined property: App\Controllers\Libros::$db
+#0 C:\xampp2\htdocs\codeigniter\app\Controllers\Libros.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp2\\htdoc...', 11)
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->index()
+#2 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#3 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 17:00:17 --> Call to undefined method App\Controllers\Libros::orderBy()
+#0 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->index()
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-13 17:08:14 --> Cannot declare class App\Controllers\Libros because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-13 17:10:06 --> Allowed memory size of 536870912 bytes exhausted (tried to allocate 4096 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-13 17:10:09 --> Allowed memory size of 536870912 bytes exhausted (tried to allocate 4096 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2022-05-13 17:10:39 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2022-05-13 17:10:39 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+#0 C:\xampp2\htdocs\codeigniter\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp2\htdocs\codeigniter\app\Models\ModelLibro.php(15): CodeIgniter\Database\BaseConnection->query('SELECT * FROM L...')
+#2 C:\xampp2\htdocs\codeigniter\app\Controllers\Libros.php(16): App\Models\ModelLibro->getLibros()
+#3 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->index()
+#4 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#5 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-05-13 17:11:21 --> Error connecting to the database: Uninitialized string offset 0
+CRITICAL - 2022-05-13 17:11:21 --> Unable to connect to the database.
+Main connection [MySQLi]: Uninitialized string offset 0
+#0 C:\xampp2\htdocs\codeigniter\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp2\htdocs\codeigniter\app\Models\ModelLibro.php(15): CodeIgniter\Database\BaseConnection->query('SELECT * FROM L...')
+#2 C:\xampp2\htdocs\codeigniter\app\Controllers\Libros.php(16): App\Models\ModelLibro->getLibros()
+#3 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->index()
+#4 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#5 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-05-13 17:11:49 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2022-05-13 17:11:49 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+#0 C:\xampp2\htdocs\codeigniter\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp2\htdocs\codeigniter\app\Models\ModelLibro.php(15): CodeIgniter\Database\BaseConnection->query('SELECT * FROM L...')
+#2 C:\xampp2\htdocs\codeigniter\app\Controllers\Libros.php(16): App\Models\ModelLibro->getLibros()
+#3 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->index()
+#4 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#5 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-13 17:11:56 --> Class "CodeIgniter\Database\MySQL\Connection" not found
+#0 C:\xampp2\htdocs\codeigniter\system\Database\Database.php(56): CodeIgniter\Database\Database->initDriver('MySQL', 'CodeIgniter\\Dat...', Array)
+#1 C:\xampp2\htdocs\codeigniter\system\Database\Config.php(78): CodeIgniter\Database\Database->load(Array, 'default')
+#2 C:\xampp2\htdocs\codeigniter\system\Model.php(97): CodeIgniter\Database\Config::connect('default')
+#3 C:\xampp2\htdocs\codeigniter\app\Controllers\Libros.php(10): CodeIgniter\Model->__construct()
+#4 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(809): App\Controllers\Libros->__construct()
+#5 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-13 17:12:05 --> Class "CodeIgniter\Database\MySQL\Connection" not found
+#0 C:\xampp2\htdocs\codeigniter\system\Database\Database.php(56): CodeIgniter\Database\Database->initDriver('MySQL', 'CodeIgniter\\Dat...', Array)
+#1 C:\xampp2\htdocs\codeigniter\system\Database\Config.php(78): CodeIgniter\Database\Database->load(Array, 'default')
+#2 C:\xampp2\htdocs\codeigniter\system\Model.php(97): CodeIgniter\Database\Config::connect('default')
+#3 C:\xampp2\htdocs\codeigniter\app\Controllers\Libros.php(10): CodeIgniter\Model->__construct()
+#4 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(809): App\Controllers\Libros->__construct()
+#5 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-13 17:12:13 --> Error connecting to the database: Uninitialized string offset 0
+CRITICAL - 2022-05-13 17:12:13 --> Unable to connect to the database.
+Main connection [MySQLi]: Uninitialized string offset 0
+#0 C:\xampp2\htdocs\codeigniter\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp2\htdocs\codeigniter\app\Models\ModelLibro.php(15): CodeIgniter\Database\BaseConnection->query('SELECT * FROM L...')
+#2 C:\xampp2\htdocs\codeigniter\app\Controllers\Libros.php(16): App\Models\ModelLibro->getLibros()
+#3 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->index()
+#4 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#5 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-05-13 17:13:54 --> Error connecting to the database: Unknown database 'bibioteca'
+CRITICAL - 2022-05-13 17:13:54 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'bibioteca'
+#0 C:\xampp2\htdocs\codeigniter\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp2\htdocs\codeigniter\app\Models\ModelLibro.php(15): CodeIgniter\Database\BaseConnection->query('SELECT * FROM L...')
+#2 C:\xampp2\htdocs\codeigniter\app\Controllers\Libros.php(16): App\Models\ModelLibro->getLibros()
+#3 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->index()
+#4 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#5 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-05-13 17:13:57 --> Error connecting to the database: Unknown database 'bibioteca'
+CRITICAL - 2022-05-13 17:13:57 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'bibioteca'
+#0 C:\xampp2\htdocs\codeigniter\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp2\htdocs\codeigniter\app\Models\ModelLibro.php(15): CodeIgniter\Database\BaseConnection->query('SELECT * FROM L...')
+#2 C:\xampp2\htdocs\codeigniter\app\Controllers\Libros.php(16): App\Models\ModelLibro->getLibros()
+#3 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->index()
+#4 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#5 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-13 17:34:02 --> Undefined variable $data
+#0 C:\xampp2\htdocs\codeigniter\app\Controllers\Libros.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp2\\htdoc...', 23)
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->add()
+#2 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#3 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 17:45:20 --> Undefined array key "Name"
+#0 C:\xampp2\htdocs\codeigniter\app\Models\ModelLibro.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp2\\htdoc...', 20)
+#1 C:\xampp2\htdocs\codeigniter\app\Controllers\Libros.php(19): App\Models\ModelLibro->add(Array)
+#2 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->add()
+#3 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#4 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-13 17:48:11 --> Undefined array key "Image"
+#0 C:\xampp2\htdocs\codeigniter\app\Models\ModelLibro.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp2\\htdoc...', 21)
+#1 C:\xampp2\htdocs\codeigniter\app\Controllers\Libros.php(19): App\Models\ModelLibro->add(Array)
+#2 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->add()
+#3 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#4 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-13 17:48:45 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '"Name", "Autor") VALUES (libro 2,andres)' at line 1
+CRITICAL - 2022-05-13 17:50:54 --> Undefined variable $post
+#0 C:\xampp2\htdocs\codeigniter\app\Views\Libros\Crear.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp2\\htdoc...', 11)
+#1 C:\xampp2\htdocs\codeigniter\system\View\View.php(210): include('C:\\xampp2\\htdoc...')
+#2 C:\xampp2\htdocs\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp2\htdocs\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Libros/Crear', Array, true)
+#4 C:\xampp2\htdocs\codeigniter\app\Controllers\Libros.php(14): view('Libros/Crear')
+#5 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->index()
+#6 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#7 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-13 17:51:25 --> syntax error, unexpected token "}"
+#0 C:\xampp2\htdocs\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp2\htdocs\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Libros/Crear', Array, true)
+#2 C:\xampp2\htdocs\codeigniter\app\Controllers\Libros.php(14): view('Libros/Crear')
+#3 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->index()
+#4 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#5 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-13 17:51:49 --> Undefined variable $post
+#0 C:\xampp2\htdocs\codeigniter\app\Views\Libros\Crear.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp2\\htdoc...', 11)
+#1 C:\xampp2\htdocs\codeigniter\system\View\View.php(210): include('C:\\xampp2\\htdoc...')
+#2 C:\xampp2\htdocs\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp2\htdocs\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Libros/Crear', Array, true)
+#4 C:\xampp2\htdocs\codeigniter\app\Controllers\Libros.php(14): view('Libros/Crear')
+#5 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->index()
+#6 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#7 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-13 17:52:01 --> Undefined variable $post
+#0 C:\xampp2\htdocs\codeigniter\app\Views\Libros\Crear.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp2\\htdoc...', 11)
+#1 C:\xampp2\htdocs\codeigniter\system\View\View.php(210): include('C:\\xampp2\\htdoc...')
+#2 C:\xampp2\htdocs\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp2\htdocs\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Libros/Crear', Array, true)
+#4 C:\xampp2\htdocs\codeigniter\app\Controllers\Libros.php(14): view('Libros/Crear')
+#5 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->index()
+#6 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#7 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-05-13 18:00:46 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '"Name", "Autor") VALUES (sadsfsd,sdfdsdfsd)' at line 1
+ERROR - 2022-05-13 18:28:31 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '"Name", "Autor") VALUES (libro 2,Andres)' at line 1
+ERROR - 2022-05-13 18:28:57 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '"Name", "Autor") VALUES (libro 2,Andres)' at line 1
+ERROR - 2022-05-13 18:29:07 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '"Name", "Autor") VALUES (asddsfd,dfgsdfgsdfg)' at line 1
+ERROR - 2022-05-13 18:30:31 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '"Name", "Autor") VALUES (asdasd,asdasdasd)' at line 1
+CRITICAL - 2022-05-13 18:32:09 --> Undefined property: App\Controllers\Libros::$db
+#0 C:\xampp2\htdocs\codeigniter\app\Controllers\Libros.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp2\\htdoc...', 30)
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->add()
+#2 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#3 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 18:35:11 --> Undefined variable $db
+#0 C:\xampp2\htdocs\codeigniter\app\Controllers\Libros.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp2\\htdoc...', 33)
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->add()
+#2 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#3 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 18:38:18 --> Undefined variable $db
+#0 C:\xampp2\htdocs\codeigniter\app\Controllers\Libros.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp2\\htdoc...', 35)
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->add()
+#2 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#3 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-05-13 18:40:14 --> Column 'Name' cannot be null
+CRITICAL - 2022-05-13 18:40:14 -->  route cannot be found while reverse-routing.
+#0 C:\xampp2\htdocs\codeigniter\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp2\htdocs\codeigniter\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp2\htdocs\codeigniter\app\Controllers\Libros.php(35): redirect('/libros/')
+#3 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->add()
+#4 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#5 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-05-13 18:44:34 --> Column 'Name' cannot be null
+ERROR - 2022-05-13 18:44:37 --> Column 'Name' cannot be null
+ERROR - 2022-05-13 18:44:40 --> Column 'Name' cannot be null
+ERROR - 2022-05-13 18:44:41 --> Column 'Name' cannot be null
+ERROR - 2022-05-13 18:45:04 --> Column 'Name' cannot be null
+ERROR - 2022-05-13 18:45:07 --> Column 'Name' cannot be null
+CRITICAL - 2022-05-13 19:14:00 --> Declaration of App\Models\ModelLibro::delete($pk) must be compatible with CodeIgniter\BaseModel::delete($id = null, bool $purge = false)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-13 19:20:52 --> Undefined variable $db
+#0 C:\xampp2\htdocs\codeigniter\app\Controllers\Libros.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp2\\htdoc...', 44)
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->actualizar('1')
+#2 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#3 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 19:33:31 --> Too few arguments to function App\Controllers\Libros::update(), 0 passed in C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->update()
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-13 19:43:50 --> Call to a member function where() on bool
+#0 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->update('1')
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-13 19:45:22 --> Call to a member function where() on bool
+#0 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->update('1')
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-13 19:47:37 --> Undefined array key 0
+#0 C:\xampp2\htdocs\codeigniter\app\Controllers\Libros.php(50): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp2\\htdoc...', 50)
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->actualizar('3')
+#2 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#3 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-13 19:47:40 --> Undefined array key 0
+#0 C:\xampp2\htdocs\codeigniter\app\Controllers\Libros.php(50): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp2\\htdoc...', 50)
+#1 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->actualizar('2')
+#2 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#3 C:\xampp2\htdocs\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp2\htdocs\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
